@@ -1,8 +1,8 @@
 # Olár, amigos! 👋
 
 Me chamo Fernando, tenho **24 anos** enquanto escrevo e acabei de começar meus estudos.\
-Atualmente estou estudando **Python** e pretendo aprender **Java** para me tornar um dedsenvolvedor **Back-End**.\
-Meus principais interesses são: **tecnologia no geral, Linux, JRPGs, história e música brasileira**.\
+Atualmente estou estudando **Java** e pretendo me tornar um dedsenvolvedor **Back-End**.\
+Meus principais interesses são: **tecnologia no geral, Linux, JRPGs, história e música brasileira**.
 
 <!--
 **minskyminsk/minskyminsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
